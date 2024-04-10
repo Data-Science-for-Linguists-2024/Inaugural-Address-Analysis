@@ -8,9 +8,9 @@ Data source: from [this place](http://www.nltk.org/nltk_data/)
 
 ## Directory
 
-* [`final_report.md`](final_report.md) is my final report write-up
+* **[`final_report.md`](final_report.md)** is my final report write-up
 
-* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. Since GitHub mangles section links, here's the [same notebook through Jupyter's nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2021/Inaugural-Address-Analysis/blob/main/process_data.ipynb). 
+* [`process_data.ipynb`](process_data.ipynb) is part 1 of my code, which focuses on data clean up. Since GitHub mangles section links, here's the [same notebook through Jupyter's nbviewer](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Inaugural-Address-Analysis/blob/main/process_data.ipynb).  
 
 * [`data/`](data) folder is where the original data files are found. 
 
@@ -24,5 +24,5 @@ Data source: from [this place](http://www.nltk.org/nltk_data/)
 
  
 ## Visitors log
-My Guestbook can be [found here](https://github.com/Data-Science-for-Linguists-2021/Class-Lounge/blob/main/guestbooks/guestbook_lexy.md). Or not.  
+My Guestbook can be [found here](https://github.com/Data-Science-for-Linguists-2024/Class-Lounge/blob/main/guestbooks/teresa.md). Or not! 
 
